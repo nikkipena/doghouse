@@ -1,2 +1,2 @@
-# fid
-This the repository for DIG2500 Fundamentals of Interactive Design 
+# The Dog House
+This the repository for The Dog House Doggy Daycare 
